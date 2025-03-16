@@ -1,0 +1,10 @@
+/* footer */
+.footer {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+align-items: center;
+justify-content: center;
+background-color: #fff;
+padding: 40px 20px;
+text-align: center;
+}
